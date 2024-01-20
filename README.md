@@ -1,3 +1,6 @@
 # Voice-assistant
 Créez une application d'assistant vocal Flutter avec ChatGPT et la génération d'images AI Dall-E | Apprentissage automatique
+
+Cette application que je développe vise à créer un assistant vocal virtuel personnel, alimenté par ChatGPT et l'API DallE, en utilisant le framework Flutter. Que vous soyez novice ou développeur chevronné, ce tutoriel Flutter vous accompagnera à chaque étape de la création d'un assistant vocal sophistiqué, capable d'exécuter diverses tâches en réponse à des commandes vocales. Nous illustrerons comment intégrer ChatGPT, un modèle de traitement du langage naturel de pointe, ainsi que DallE, un outil de génération d'images basé sur l'IA, pour rendre votre assistant vocal plus intelligent et réactif. À la fin de ce tutoriel, vous aurez une compréhension approfondie de l'implémentation de l'API REST et de la création d'une interface utilisateur élégante dans votre application Flutter. Vous serez également en mesure de développer une application d'assistant virtuel puissante, capable de comprendre vos commandes vocales et de générer des images de manière dynamique.
+
 ![image](https://github.com/Makkaoui-Mohammed/Voice-assistant/assets/108239380/ac3daf13-00e7-4a0a-b8f9-a962f35de469)
